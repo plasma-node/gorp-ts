@@ -1,15 +1,3 @@
-# Project place file
-/gorp.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-
-# Packages
-/Packages
-
-# Sourcemap
-/sourcemap.json
-
-# wally lock files
-/wally.lock
+output/
+node_modules/
+.vscode/
